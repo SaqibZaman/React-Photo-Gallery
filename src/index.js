@@ -8,7 +8,7 @@ const img3 = "https://picsum.photos/310/300";
 const home = "https://dotaustere.com";
 
 const heading = {
-  color: "orange",
+  color: "crimson",
   fontSize: "30px",
   fontFamily: "'Bebas Neue', cursive",
   fontWeight: "bold",
